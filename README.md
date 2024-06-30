@@ -9,7 +9,7 @@
 5. [Tavern Dreams](Texts/en/05%20Tavern%20Dreams.txt) | Сон в таверне
 6. [Cursed Crusade](Texts/en/06%20The%20Cursed%20Crusade.txt) | Проклятый поход
 7. [Immortal Conqueror](Texts/en/07%20The%20Immortal%20Conqueror.txt) | Бессмертный завоеватель
-8. [Crown of Temptation](Texts/en/08%20Crown%20of%20Temptation.txt) | Корона соблазна
+8. [Crown of Temptation](Texts/en/08%20Crown%20of%20Temptation.txt) | [Корона соблазна](Texts/ru/08%20Корона%20соблазна.txt)
 9. [Skybound Hero](Texts/en/09%20Skybound%20Hero.txt) | Небесный герой
 
 Vladislav Shevchenko (c) 2023
