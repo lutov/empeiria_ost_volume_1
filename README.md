@@ -10,6 +10,6 @@
 6. [Cursed Crusade](Texts/en/06%20The%20Cursed%20Crusade.txt) | [Проклятый поход](Texts/ru/06%20Проклятый%20поход.txt)
 7. [Immortal Conqueror](Texts/en/07%20The%20Immortal%20Conqueror.txt) | [Бессмертный завоеватель](Texts/ru/07%20Бессмертный%20завоеватель.txt)
 8. [Crown of Temptation](Texts/en/08%20Crown%20of%20Temptation.txt) | [Корона соблазна](Texts/ru/08%20Корона%20соблазна.txt)
-9. [Skybound Hero](Texts/en/09%20Skybound%20Hero.txt) | Небесный герой
+9. [Skybound Hero](Texts/en/09%20Skybound%20Hero.txt) | [Небесный герой](Texts/ru/09%20Небесный%20герой.txt)
 
 Vladislav Shevchenko (c) 2023
